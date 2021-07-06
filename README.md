@@ -13,4 +13,4 @@ I have also  Master degree in neuroscience from haifa univeristy, also a Bachelo
   #### LinkedIn: https://www.linkedin.com/in/wael-dagash-48692b120/
 
 
-![alt text](https://drive.google.com/file/d/1hGhmj1Mj97_Y2wbgbzmjF57lS-d8IvhM/view?usp=sharing)
+![image](https://drive.google.com/uc?export=view&id=1hGhmj1Mj97_Y2wbgbzmjF57lS-d8IvhM)

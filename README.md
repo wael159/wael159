@@ -6,7 +6,7 @@ Welcome ! I'm wael, an aspiring certified data scientist (certified from Technio
 I have also  Master degree in neuroscience from haifa univeristy, also a Bachelor degree in science and education from technion.
 
 
-- 🔭 I’m currently seeking an entry level job in data science feild
+- 🔭 I’m currently seeking an entry level job in #### data science feild
 - 🌱 I’m currently learning data science and machine learning
 - 👯 I’m looking to collaborate on data science project
 - 📫 How to reach me: 

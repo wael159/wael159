@@ -2,7 +2,7 @@
 
 
 Welcome to my Gihub profile !
-Welcome ! I'm wael, an aspiring certified data scientist (certified from Technion, Microsoft and DataCamp) and certified Data analyst from google, recenlty completed the google Data Analytics Certificate, hands on program that covers the entire scope of the data analysis process.
+Welcome ! I'm wael, an aspiring certified data scientist (certified from **Technion, Microsoft and DataCamp**) and certified Data analyst from google, recenlty completed the google Data Analytics Certificate, hands on program that covers the entire scope of the data analysis process.
 I have also  Master degree in neuroscience from haifa univeristy, also a Bachelor degree in science and education from technion.
 
 

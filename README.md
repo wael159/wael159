@@ -15,4 +15,4 @@ I have also  Master degree in neuroscience from haifa univeristy, also a Bachelo
 - 🔗 Link for Kaggle profile:    [Kaggle](https://www.kaggle.com/waeldagash)  
 
 ![image](https://drive.google.com/uc?export=view&id=1hGhmj1Mj97_Y2wbgbzmjF57lS-d8IvhM)
-![image](https://drive.google.com/uc?export=view&id=1iJTeSzZgiJ6UDvygcnj7god3UN7clTm7)
+

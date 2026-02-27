@@ -1,20 +1,13 @@
-### Hi there 👋
+Hi there, I'm Wael 👋
+Data Engineer| MS in Neuroscience | Technical Content Creator
 
+I build scalable data infrastructure and high-performance ETL pipelines within the Fintech space. My background is a bit unique—I transitioned from analyzing complex neural datasets during my Master's in Neuroscience to architecting data systems for financial intelligence.
 
-Welcome to my Gihub profile !
-Welcome ! I'm wael, an aspiring **certified data scientist** (certified from **Technion, Microsoft and DataCamp**) and certified Data analyst from google, recenlty completed the google Data Analytics Certificate, hands on program that covers the entire scope of the data analysis process.
-I have also  Master degree in neuroscience from haifa univeristy, also a Bachelor degree in science and education from technion :mortar_board:.
+🛠 Currently: Designing JSON-based data pipelines and optimizing data workflows at Personetics.
 
+🧠 Background: MS in Neuroscience (University of Haifa) & BSc in Science (Technion).
 
-- 🔭 I’m currently seeking an entry level job in **data science** feild
-- 🌱 I’m currently learning **data science and machine learning**
-- 👯 I’m looking to collaborate on data science project
-- 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/wael-dagash-48692b120/) 
-- 🔗 Link for Portfolio :    [Portfolio](https://sites.google.com/view/waeldagash/home)
-- 🔗 Link for Badges:    [Badges](https://www.credly.com/users/wael-daghash/badges)
-- 🔗 Link for DataCamp profile:    [DataCamp](https://www.datacamp.com/profile/waeldagash)  
-- 🔗 Link for Kaggle profile:    [Kaggle](https://www.kaggle.com/waeldagash)  
--   
+✍️ Community: I simplify technical concepts for 10K+ followers on LinkedIn.
 
-![image](https://drive.google.com/uc?export=view&id=1hGhmj1Mj97_Y2wbgbzmjF57lS-d8IvhM)
+⚡ Focus: Clean architecture, data governance, and scalable engineering.
 
